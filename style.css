@@ -1,0 +1,16 @@
+body {
+	background-color:#9a7735;
+	font-family:arial;
+	font-weight:bold;
+}
+h1 {
+	color:#026400;
+	font-family:Batang;
+	font-size:40pt;
+	font-stretch:expanded;
+	border:2px solid #004dac;
+	border-radius:10px;
+	padding:15px;
+	width:1000px;
+	text-align:center;
+}
