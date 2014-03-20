@@ -1,17 +1,18 @@
 body {
 	background-color:#fff09c;
-	font-family:arial;
-	font-weight:bold;
+	font-family:'Roboto Condensed';
 }
 h1 {
 
 	color:#026400;
-	font-family:Batang;
+	font-family:'Roboto Condensed';
+	font-weight: normal;
 	font-size:40pt;
 	font-stretch:expanded;
 	border:2px solid #004dac;
 	border-radius:10px;
 	padding:15px;
-	width:1000px;
+	max-width:1000px;
 	text-align:center;
 }
+
