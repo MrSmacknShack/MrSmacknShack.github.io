@@ -2,10 +2,40 @@ body {
 	background-color:#fff09c;
 	font-family:'Roboto Condensed';
 }
-h1 {
 
+ul.menu {
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding: 15px;
+	background-color: #004dac;
+	height: 22px;
+	font-weight: bold;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+ul.menu li {
+	list-style: none;
+	display: block;
+	float: left;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+ul.menu a {
+	color: #fff09c;
+	text-decoration: none;
+}
+
+ul.menu a:hover {
+	background-color: #fff09c;
+	color: #004dac;
+}
+
+h1 {
 	color:#026400;
-	font-family:'Roboto Condensed';
 	font-weight: normal;
 	font-size:40pt;
 	font-stretch:expanded;
@@ -14,5 +44,6 @@ h1 {
 	padding:15px;
 	max-width:1000px;
 	text-align:center;
+	margin-bottom: 0;
 }
 
